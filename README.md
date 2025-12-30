@@ -44,10 +44,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AmanAJ21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanAJ21&theme=radical)
+
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanAJ21&theme=radical)
+![GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmanAJ21&theme=radical)
 
 </div>
 
