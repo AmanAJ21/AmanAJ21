@@ -34,11 +34,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanAJ21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AmanAJ21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AmanAJ21&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AmanAJ21&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanAJ21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmanAJ21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -47,7 +47,7 @@
 ## 🏆 GitHub Trophies
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AmanAJ21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AmanAJ21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
@@ -56,7 +56,7 @@
 ## 📈 Contribution Graph
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanAJ21&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanAJ21&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)
 
 </div>
 
@@ -77,7 +77,7 @@
 
 **Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=AmanAJ21&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=AmanAJ21&color=0e75b6&style=flat)](https://github.com/AmanAJ21)
 
 </div>
 
