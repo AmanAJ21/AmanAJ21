@@ -38,7 +38,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanAJ21&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AmanAJ21&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmanAJ21&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanAJ21&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
@@ -50,15 +50,6 @@
 <div align="center">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AmanAJ21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanAJ21&theme=react-dark&hide_border=true)
 
 </div>
 
