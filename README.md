@@ -1,10 +1,8 @@
 # 💫 About Me:
 👋 Hi there! I'm **Aman Jangra**, a passionate developer who loves building innovative solutions and exploring new technologies.
 
-🌱 I'm currently learning **advanced web development frameworks** and **cloud technologies**<br>
-💻 I enjoy working on **full-stack projects** and contributing to **open-source**<br>
-� Alwaysi eager to collaborate on **exciting projects** and **learn from the community**<br>
-⚡ Fun fact: **I debug with coffee and solve problems with curiosity!** ☕
+💻 I enjoy working on **full-stack projects**<br>
+
 
 ---
 
