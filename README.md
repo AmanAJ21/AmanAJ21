@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aman%20Jangra) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/amanjangra27) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanjangraaj25@gmail.com)
 
 ---
@@ -50,6 +50,15 @@
 <div align="center">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AmanAJ21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+### ✍️ Random Dev Quote
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizraph?username=AmanAJ21&theme=react-dark&hide_border=true)
 
 </div>
 
