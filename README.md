@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/amanjangra27) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aman%20Jangra) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanjangraaj25@gmail.com)
 
 ---
@@ -38,7 +38,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanAJ21&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmanAJ21&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AmanAJ21&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanAJ21&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
@@ -55,10 +55,10 @@
 
 ---
 
-### ✍️ Random Dev Quote
+## 📈 Contribution Graph
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizraph?username=AmanAJ21&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanAJ21&theme=react-dark&hide_border=true)
 
 </div>
 
